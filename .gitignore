@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+model.py
+best_lstm_crf_model.pt
+best_lstm_crf_model2.pt
+data/test_data.pkl
+data/train_1_5000_data.pkl
+data/train_2_5000_data.pkl
+data/train_3_5000_data.pkl
+data/train_4_5000_data.pkl
+data/valid_data.pkl
